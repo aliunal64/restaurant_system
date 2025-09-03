@@ -92,3 +92,6 @@ You can watch my YouTube video to see the overall process of the project:
 
 ###  🤝 Contributing
 This project is open for community contributions.
+
+###  📄 License
+This project is licensed under the MIT License – see the [LICENSE](./LICENSE) file for details.
