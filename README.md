@@ -2,6 +2,10 @@
 A modern, full-featured restaurant ordering system built with **PHP, HTML, JavaScript and MySQL**.  
 This web application allows customers to browse menus, place orders, and track deliveries while providing restaurant owners with comprehensive management tools.
 
+🎥 **Introductory Video:**
+You can watch my YouTube video to see the overall process of the project: 
+👉 https://youtu.be/lFzdN8DTGSY
+
 ---
 
 ## 🚀 Features
