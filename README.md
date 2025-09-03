@@ -78,10 +78,13 @@ This web application allows customers to browse menus, place orders, and track d
 - **Mobile-first Design:** Optimized for smartphones  
 - **Touch-friendly Interface:** Large buttons and inputs  
 - **Responsive Images:** Optimized loading  
-- **Smooth Animations:** Touch gesture support  
+- **Smooth Animations:** Touch gesture support
 
 #### 🚀 Performance Optimizations
 - **Efficient Queries:** Optimized database operations  
 - **Image Optimization:** Responsive image loading  
 - **Minified Assets:** Compressed CSS/JS  
 - **Caching Strategy:** Browser caching headers  
+
+###  🤝 Contributing
+This project is open for community contributions.
